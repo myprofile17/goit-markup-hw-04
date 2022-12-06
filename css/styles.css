@@ -418,8 +418,8 @@ body {
 	background-color: var(--acent-color);
 }
 
-.project-card-link {
-	display: block;
+.portfolio-item {
+	display:block;
 }
 
 .project-card-link:hover,
@@ -434,6 +434,7 @@ body {
 }
 
 .project-title {
+	color:var(--primary-text-color);
 	font-size: 18px;
 	line-height: 2;
 	letter-spacing: 0.06em;
